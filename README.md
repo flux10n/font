@@ -7,7 +7,7 @@ You can also use otf/ttf fonts in applications that provide services to change t
   - [Blogger](#403)
   - [Dsb...](#403)
 
-Demo to? [dafont](https://www.dafont.com/)
+Visit website [dafont](https://www.dafont.com/) to know more clearly cool fonts.
 
 ### Tag
 [#Fonts](https://www.dafont.com/)
